@@ -1,9 +1,41 @@
 /*  
     RESET
+
 */
 
 * {
   box-sizing: border-box;
   margin: 0;
   padding: 0;
+}
+
+/*  
+
+    GENERAL
+
+*/
+
+body {
+  background-color: grey;
+}
+
+/* 
+
+    HEADER 
+
+*/
+
+header {
+  background-color: white;
+  margin-bottom: 40px;
+  padding: 10px 20px;
+}
+
+h1 {
+  display: inline-block;
+  vertical-align: middle;
+  font-size: 40px;
+}
+.imm {
+  vertical-align: middle;
 }
