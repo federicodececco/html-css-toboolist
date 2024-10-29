@@ -21,7 +21,7 @@
 }
 
 body {
-  background-color: grey;
+  background-color: #f6f8f9;
 }
 
 /* 
@@ -95,6 +95,7 @@ main {
   margin-top: 2px;
   padding-top: 30px;
   padding-left: 40px;
+  padding-bottom: 40px;
 }
 .circle {
   border-radius: 100%;
@@ -144,8 +145,11 @@ ul {
   background-color: #ff9b00;
 }
 .rec {
-  background-color: #a3d116;
+  background-color: #2cc6ab;
 }
-.q1{
+.q1 {
   background-color: #ab5de6;
+}
+.sales {
+  background-color: #a3d116;
 }
